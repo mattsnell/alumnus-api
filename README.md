@@ -59,6 +59,8 @@ cdk synth
 cdk deploy
 ```
 
+Note: you may need to update to the latest version of the CDK before you can *synth* or *deploy*: `sudo npm install -g aws-cdk@latest`
+
 See [Getting started with the AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html) to learn more
 
 ---
